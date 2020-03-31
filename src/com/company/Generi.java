@@ -2,7 +2,7 @@ package com.company;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-
+//3) Implementar con generics la clase Pila que simule una Pila de datos con los siguientes metodos:
 public class Generi<T extends Comparable>{
 
     private List<T> arreglo;
